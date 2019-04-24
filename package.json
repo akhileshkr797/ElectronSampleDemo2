@@ -2,7 +2,7 @@
     "name": "electronsampledemo2",
     "version": "1.0.0",
     "description": "learning Electron in depth",
-    "main": "main.js",
+    "main": "/app/main.js",
     "scripts": {
         "start": "electron ."
     },
