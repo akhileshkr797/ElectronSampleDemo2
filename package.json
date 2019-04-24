@@ -1,0 +1,19 @@
+{
+    "name": "electronsampledemo2",
+    "version": "1.0.0",
+    "description": "learning Electron in depth",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhileshkr797/ElectronSampleDemo2.git"
+    },
+    "author": "akhilesh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/akhileshkr797/ElectronSampleDemo2/issues"
+    },
+    "homepage": "https://github.com/akhileshkr797/ElectronSampleDemo2#readme"
+}
